@@ -8,8 +8,8 @@ Create: Airwaves 完整简体中文汉化，支持 MC 1.21.1 / NeoForge。覆盖
 
 本项目为 NeoForge 1.21.1 模组 **Create: Airwaves** 的完整简体中文汉化，基于原模组 `0.1.1` 制作。
 
-![Ponder 中文场景](docs/runtime_ponder_zh_cn.png)
-![创造模式物品栏](docs/runtime_inventory_zh_cn.png)
+![Ponder 中文场景](https://github.com/no-have-name/Create-Airwaves-zh_cn/blob/main/runtime_ponder_zh_cn.png)
+![创造模式物品栏]([docs/runtime_inventory_zh_cn.png](https://github.com/no-have-name/Create-Airwaves-zh_cn/blob/main/runtime_inventory_zh_cn.png))
 
 ## 汉化范围
 
